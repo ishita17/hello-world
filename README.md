@@ -1,2 +1,5 @@
 # hello-world
-I am testing this
+
+Hi Humans!
+
+Ish here, I am trying to learn this thing. Famcy words ehh..
